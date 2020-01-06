@@ -1,5 +1,4 @@
-# rechnen
-Rechnen mit den Grundoperatoren (Grundschule)
+# Rechnen mit den Grundoperatoren (Grundschule)
 
 Eingegeben wird eine maximale Zahl
 
